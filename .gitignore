@@ -3,8 +3,8 @@
 .DS_Store
 
 #mine
-andriod/*
-ios/*
+andriod/
+ios/
 # Xcode
 #
 build/
